@@ -1,1 +1,9 @@
-
+{
+  "keys": {
+    "BUYER-KEY-001": {
+      "active": true,
+      "owner": "test",
+      "expires": "never"
+    }
+  }
+}
